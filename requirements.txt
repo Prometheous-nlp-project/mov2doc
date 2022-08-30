@@ -1,0 +1,10 @@
+gradio
+summarizers
+SpeechRecognition
+yt-dlp
+keybert
+nltk
+transformers
+sentence-transformers
+datasets
+summarizers
